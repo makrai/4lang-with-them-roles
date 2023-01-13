@@ -7,7 +7,7 @@ The core of the system is a set of manually defined words.
 Until 2016, the manual definitions marked the positions of arguments within the
 definitions of argument-bearing words on a thematic basis
 ([Makrai 2014](https://hlt.bme.hu/en/publ/Makrai_2014),
-[Kornai 2020](https://link.springer.com/book/10.1007/978-3-319-65645-8)] p120)
+[Kornai 2020](https://link.springer.com/book/10.1007/978-3-319-65645-8) p120)
 i.e.  cross-lingual syntacto-semantic generalizations.
 Since 2019, [the definitions in the main repo of the
 project](https://github.com/kornai/4lang/blob/master/4lang) changed.
